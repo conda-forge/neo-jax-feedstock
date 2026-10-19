@@ -29,6 +29,7 @@ requirements:
     - pip
   run:
     - python >=${{ python_min }}
+    - booz-xform-jax >=0.5.0
     - jax
     - numpy
     - netcdf4
