@@ -9,7 +9,7 @@ package:
   version: ${{ version }}
 
 source:
-  url: https://pypi.org/packages/source/n/neo-jax/neo_jax-${{ version }}.tar.gz
+  url: https://files.pythonhosted.org/packages/source/n/neo-jax/neo_jax-${{ version }}.tar.gz
   sha256: e6a0198a4675f8c45a7b6b90542c71ffee6186074cb07a65a4d34c3e87988d62
 
 build:
